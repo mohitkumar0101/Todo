@@ -43,8 +43,8 @@ const Login = () => {
 
   return (
     <div className="login">
-    <h1>this is a login page !</h1>
       <section>
+        <h1>this is a login page</h1>
         <form onSubmit={submitHandler}>
           <input
             type="email"
