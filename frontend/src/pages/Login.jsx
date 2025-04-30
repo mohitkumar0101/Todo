@@ -44,7 +44,7 @@ const Login = () => {
   return (
     <div className="login">
       <section>
-        <h1>this is a login page updaete</h1>
+        <h1>this is a login page updaete for mohit</h1>
         <form onSubmit={submitHandler}>
           <input
             type="email"
